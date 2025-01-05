@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prajwalshivaiah
-- 🌱 I’m currently learning C++ and DSA
+- 🌱 I’m currently learning Java and DSA
 - 📫 How to reach me prajwalshivaiah@gmail.com
 
 <!---
